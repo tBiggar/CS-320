@@ -12,6 +12,10 @@ top of my code: what is present is based on the information that was commonly
 required for submission at Foothill College.
  */
 
+/*
+Hello Github!
+*/
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.URL;
